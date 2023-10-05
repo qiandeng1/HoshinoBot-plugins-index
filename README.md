@@ -114,7 +114,7 @@
 | [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) | [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |2022-03-11 09:43:22|
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2023-09-14 14:25:56|
 | [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|2022-06-21 21:38:27|
-|[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) <!--cont.-->| [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-07-29 23:50:27|
+|[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-07-29 23:50:27|
 | [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-06-20 14:30:10|
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 |2022-08-01 14:36:59|
 | [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 |2023-08-09 11:53:21|
@@ -173,7 +173,7 @@
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2023-03-26 20:08:43|
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2023-08-21 08:57:43|
-| [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
+| [有道智云翻译](https://github.com/pcrbot/youdao_translate) <!--cont.-->| [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
