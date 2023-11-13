@@ -20,14 +20,14 @@
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-10-22 23:13:21|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2023-05-23 18:26:50|
+| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2023-11-07 12:29:08|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
 | [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-26 10:20:13|
-| [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
+| [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-11-12 01:35:21|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
@@ -40,7 +40,7 @@
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
 | [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2023-07-17 22:13:08|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
-| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
+| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2023-11-12 15:52:28|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
@@ -62,7 +62,7 @@
 | [风控冻结自动切号](https://github.com/othinus001/txcnm) | [@othinus001](https://github.com/othinus001) | 通过读gocq的日志，解决色图和会战风控被冻的需求，2-3个号就够了，只要号多就腾讯就赶不上我风控的速度|2022-09-21 00:25:59|
 | [网页截图修补版](https://github.com/kcn3388/pagecut) | [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br>增加爬取网页源代码或js变量以辅助爬虫 |2022-09-01 09:40:04|
 | [重开设定](https://github.com/pcrbot/remake_setting) | [@chu3](https://github.com/chu3)  | 重开设定图片版 |2022-08-31 00:32:04|
-| [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
+| [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) <!--cont.-->| [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-04-08 13:56:08|
