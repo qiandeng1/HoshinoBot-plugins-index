@@ -152,7 +152,7 @@
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
-| [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) <!--cont.-->| [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
+| [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2022-06-13 10:59:49|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
@@ -188,7 +188,7 @@
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
-| [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) | [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
+| [币安推送](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush) <!--cont.-->| [@scofieldle](https://github.com/scofieldle) | 本插件用于动态监测币安上各种货币涨跌情况 |2022-06-21 09:49:47|
 | [P站搜索](https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new) | [@scofieldle](https://github.com/scofieldle) | 使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画 |2022-06-21 09:49:47|
 | [崩3日历](https://github.com/NepPure/bh3_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格崩3日历，数据源游戏内公告 |2021-10-04 16:33:41|
 | [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 |2022-09-26 22:52:16|
