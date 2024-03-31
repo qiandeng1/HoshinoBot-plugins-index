@@ -145,7 +145,7 @@
 | [飞天大蟑螂](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 发送白底有随机数量随机旋转角度的飞天大蟑螂图片，我的建议是：别用！ |2021-12-01 10:48:17|
 | [磁力链搜索](https://github.com/half-ghost/bt_search)|[@half-ghost](https://github.com/half-ghost)|磁力链搜索插件。好耶！再也不怕找不到车了！（|2023-02-22 00:41:48|
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo)  [@咕咕鸽](https://github.com/Adminicoder)| 通过排列组合来自定义属于自己的奥利奥吧！ |2022-08-12 08:10:25|
-| [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)<!--cont.-->|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
+| [战地1/5战绩查询(图片版)](https://github.com/half-ghost/bf_record_search)|[@half-ghost](https://github.com/half-ghost)|战地1、5战绩查询插件，以图片形式呈现|2022-05-19 02:03:34|
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ |2023-05-07 08:37:59|
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 |2023-05-06 19:09:35|
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ |2023-03-26 13:59:13|
@@ -202,7 +202,7 @@
 | [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2023-03-21 11:26:25|
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2024-01-04 18:41:05|
 |[积分系统(底层方法实现)](https://github.com/pcrbot/scoresystem)| [@corvo007](https://github.com/corvo007)|积分系统(底层方法实现)|2023-10-23 22:45:01|
-| [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
+| [扫雷游戏](https://github.com/eggggi/mine_sweeper) <!--cont.-->| [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
