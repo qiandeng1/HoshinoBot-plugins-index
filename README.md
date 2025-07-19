@@ -237,7 +237,7 @@
 | [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-16 01:46:14|
 | [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
-| [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) <!--cont.-->| [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-16 01:46:14|
+| [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) | [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-16 01:46:14|
 | [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
@@ -288,7 +288,7 @@
 | 名称 | 作者 | 备注 | 更新时间 |
 | --- | --- | --- | --- |
 | [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21 15:48:57|
-| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
+| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) <!--cont.-->| [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
 
 ## 发布内容
 
