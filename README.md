@@ -15,7 +15,7 @@
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2025-10-27 22:54:36|
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2025-10-30 14:46:24|
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2025-03-17 10:19:45|
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2024-06-26 12:47:27|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
@@ -254,7 +254,7 @@
 | [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
 | [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 |2022-11-12 18:59:28|
 | [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-11-12 18:59:28|
-| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
+| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
 | [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
