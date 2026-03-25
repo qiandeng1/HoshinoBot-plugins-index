@@ -63,7 +63,7 @@
 | [网页截图修补版](https://github.com/kcn3388/pagecut) | [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br>增加爬取网页源代码或js变量以辅助爬虫 |2022-09-01 09:40:04|
 | [重开设定](https://github.com/pcrbot/remake_setting) | [@chu3](https://github.com/chu3)  | 重开设定图片版 |2022-08-31 00:32:04|
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
-| [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
+| [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) <!--cont.-->| [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-11-26 11:40:14|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
