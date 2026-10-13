@@ -173,7 +173,7 @@
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2024-01-18 10:37:30|
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2023-08-21 08:57:43|
-| [有道智云翻译](https://github.com/pcrbot/youdao_translate) <!--cont.-->| [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
+| [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
 | [5000choyen](https://github.com/pcrbot/5000choyen) | [@assassingyk](https://github.com/assassingyk) | 5000兆円图片生成器（红字 白字.jpg） |2021-08-18 13:37:07|
@@ -208,7 +208,7 @@
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
 | [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |2022-06-19 21:16:51|
-| [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2023-05-07 08:33:45|
+| [今天吃什么](https://github.com/A-kirami/whattoeat) <!--cont.-->| [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2023-05-07 08:33:45|
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |2021-10-26 10:34:53|
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
